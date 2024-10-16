@@ -1,0 +1,6 @@
+# requirements.txt
+tensorflow
+matplotlib
+scikit-learn
+keras
+numpy
